@@ -1,2 +1,3 @@
-# Deepfake-image-detection
-The goal of this project is to evaluate novel new technologies that can aid in the detection of deepfakes and manipulated media. We will compare models for predicting whether a video/image is real or fake to find the best one.
+# Deepfakes-Detection
+
+Designed and implemented a custom CNN learning architecture for deep fake image detection using a pre-trained Xception model and achieved 82.66% accuracy on a diverse dataset
